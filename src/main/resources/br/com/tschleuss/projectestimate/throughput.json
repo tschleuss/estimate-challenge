@@ -1,0 +1,339 @@
+{
+  "weeks": [{
+      "firstDayWeekTimestamp": 1475463600,
+      "firstDayWeek": "2016-10-03",
+      "lastDayWeekTimestamp": 1475895600,
+      "lastDayWeek": "2016-10-08",
+      "week": "2016-10-08",
+      "tasks": 65
+    },
+    {
+      "firstDayWeekTimestamp": 1476068400,
+      "firstDayWeek": "2016-10-10",
+      "lastDayWeekTimestamp": 1476500400,
+      "lastDayWeek": "2016-10-15",
+      "week": "2016-10-15",
+      "tasks": 52
+    },
+    {
+      "firstDayWeekTimestamp": 1476669600,
+      "firstDayWeek": "2016-10-17",
+      "lastDayWeekTimestamp": 1477101600,
+      "lastDayWeek": "2016-10-22",
+      "week": "2016-10-22",
+      "tasks": 60
+    },
+    {
+      "firstDayWeekTimestamp": 1477274400,
+      "firstDayWeek": "2016-10-24",
+      "lastDayWeekTimestamp": 1477706400,
+      "lastDayWeek": "2016-10-29",
+      "week": "2016-10-29",
+      "tasks": 47
+    },
+    {
+      "firstDayWeekTimestamp": 1477879200,
+      "firstDayWeek": "2016-10-31",
+      "lastDayWeekTimestamp": 1478311200,
+      "lastDayWeek": "2016-11-05",
+      "week": "2016-11-05",
+      "tasks": 31
+    },
+    {
+      "firstDayWeekTimestamp": 1478484000,
+      "firstDayWeek": "2016-11-07",
+      "lastDayWeekTimestamp": 1478916000,
+      "lastDayWeek": "2016-11-12",
+      "week": "2016-11-12",
+      "tasks": 58
+    },
+    {
+      "firstDayWeekTimestamp": 1479088800,
+      "firstDayWeek": "2016-11-14",
+      "lastDayWeekTimestamp": 1479520800,
+      "lastDayWeek": "2016-11-19",
+      "week": "2016-11-19",
+      "tasks": 45
+    },
+    {
+      "firstDayWeekTimestamp": 1479693600,
+      "firstDayWeek": "2016-11-21",
+      "lastDayWeekTimestamp": 1480125600,
+      "lastDayWeek": "2016-11-26",
+      "week": "2016-11-26",
+      "tasks": 43
+    },
+    {
+      "firstDayWeekTimestamp": 1480298400,
+      "firstDayWeek": "2016-11-28",
+      "lastDayWeekTimestamp": 1480730400,
+      "lastDayWeek": "2016-12-03",
+      "week": "2016-12-03",
+      "tasks": 58
+    },
+    {
+      "firstDayWeekTimestamp": 1480903200,
+      "firstDayWeek": "2016-12-05",
+      "lastDayWeekTimestamp": 1481335200,
+      "lastDayWeek": "2016-12-10",
+      "week": "2016-12-10",
+      "tasks": 66
+    },
+    {
+      "firstDayWeekTimestamp": 1481508000,
+      "firstDayWeek": "2016-12-12",
+      "lastDayWeekTimestamp": 1481940000,
+      "lastDayWeek": "2016-12-17",
+      "week": "2016-12-17",
+      "tasks": 18
+    },
+    {
+      "firstDayWeekTimestamp": 1482112800,
+      "firstDayWeek": "2016-12-19",
+      "lastDayWeekTimestamp": 1482544800,
+      "lastDayWeek": "2016-12-24",
+      "week": "2016-12-24",
+      "tasks": 34
+    },
+    {
+      "firstDayWeekTimestamp": 1482717600,
+      "firstDayWeek": "2016-12-26",
+      "lastDayWeekTimestamp": 1483149600,
+      "lastDayWeek": "2016-12-31",
+      "week": "2016-12-31",
+      "tasks": 52
+    },
+    {
+      "firstDayWeekTimestamp": 1483322400,
+      "firstDayWeek": "2017-01-02",
+      "lastDayWeekTimestamp": 1483754400,
+      "lastDayWeek": "2017-01-07",
+      "week": "2017-01-07",
+      "tasks": 51
+    },
+    {
+      "firstDayWeekTimestamp": 1483927200,
+      "firstDayWeek": "2017-01-09",
+      "lastDayWeekTimestamp": 1484359200,
+      "lastDayWeek": "2017-01-14",
+      "week": "2017-01-14",
+      "tasks": 45
+    },
+    {
+      "firstDayWeekTimestamp": 1484532000,
+      "firstDayWeek": "2017-01-16",
+      "lastDayWeekTimestamp": 1484964000,
+      "lastDayWeek": "2017-01-21",
+      "week": "2017-01-21",
+      "tasks": 39
+    },
+    {
+      "firstDayWeekTimestamp": 1485136800,
+      "firstDayWeek": "2017-01-23",
+      "lastDayWeekTimestamp": 1485568800,
+      "lastDayWeek": "2017-01-28",
+      "week": "2017-01-28",
+      "tasks": 74
+    },
+    {
+      "firstDayWeekTimestamp": 1485741600,
+      "firstDayWeek": "2017-01-30",
+      "lastDayWeekTimestamp": 1486173600,
+      "lastDayWeek": "2017-02-04",
+      "week": "2017-02-04",
+      "tasks": 95
+    },
+    {
+      "firstDayWeekTimestamp": 1486346400,
+      "firstDayWeek": "2017-02-06",
+      "lastDayWeekTimestamp": 1486778400,
+      "lastDayWeek": "2017-02-11",
+      "week": "2017-02-11",
+      "tasks": 49
+    },
+    {
+      "firstDayWeekTimestamp": 1486951200,
+      "firstDayWeek": "2017-02-13",
+      "lastDayWeekTimestamp": 1487383200,
+      "lastDayWeek": "2017-02-18",
+      "week": "2017-02-18",
+      "tasks": 52
+    },
+    {
+      "firstDayWeekTimestamp": 1487559600,
+      "firstDayWeek": "2017-02-20",
+      "lastDayWeekTimestamp": 1487991600,
+      "lastDayWeek": "2017-02-25",
+      "week": "2017-02-25",
+      "tasks": 48
+    },
+    {
+      "firstDayWeekTimestamp": 1488164400,
+      "firstDayWeek": "2017-02-27",
+      "lastDayWeekTimestamp": 1488596400,
+      "lastDayWeek": "2017-03-04",
+      "week": "2017-03-04",
+      "tasks": 28
+    },
+    {
+      "firstDayWeekTimestamp": 1488769200,
+      "firstDayWeek": "2017-03-06",
+      "lastDayWeekTimestamp": 1489201200,
+      "lastDayWeek": "2017-03-11",
+      "week": "2017-03-11",
+      "tasks": 55
+    },
+    {
+      "firstDayWeekTimestamp": 1489374000,
+      "firstDayWeek": "2017-03-13",
+      "lastDayWeekTimestamp": 1489806000,
+      "lastDayWeek": "2017-03-18",
+      "week": "2017-03-18",
+      "tasks": 53
+    },
+    {
+      "firstDayWeekTimestamp": 1489978800,
+      "firstDayWeek": "2017-03-20",
+      "lastDayWeekTimestamp": 1490410800,
+      "lastDayWeek": "2017-03-25",
+      "week": "2017-03-25",
+      "tasks": 49
+    },
+    {
+      "firstDayWeekTimestamp": 1490583600,
+      "firstDayWeek": "2017-03-27",
+      "lastDayWeekTimestamp": 1491015600,
+      "lastDayWeek": "2017-04-01",
+      "week": "2017-04-01",
+      "tasks": 50
+    },
+    {
+      "firstDayWeekTimestamp": 1491188400,
+      "firstDayWeek": "2017-04-03",
+      "lastDayWeekTimestamp": 1491620400,
+      "lastDayWeek": "2017-04-08",
+      "week": "2017-04-08",
+      "tasks": 96
+    },
+    {
+      "firstDayWeekTimestamp": 1491793200,
+      "firstDayWeek": "2017-04-10",
+      "lastDayWeekTimestamp": 1492225200,
+      "lastDayWeek": "2017-04-15",
+      "week": "2017-04-15",
+      "tasks": 154
+    },
+    {
+      "firstDayWeekTimestamp": 1492398000,
+      "firstDayWeek": "2017-04-17",
+      "lastDayWeekTimestamp": 1492830000,
+      "lastDayWeek": "2017-04-22",
+      "week": "2017-04-22",
+      "tasks": 32
+    },
+    {
+      "firstDayWeekTimestamp": 1493002800,
+      "firstDayWeek": "2017-04-24",
+      "lastDayWeekTimestamp": 1493434800,
+      "lastDayWeek": "2017-04-29",
+      "week": "2017-04-29",
+      "tasks": 39
+    },
+    {
+      "firstDayWeekTimestamp": 1493607600,
+      "firstDayWeek": "2017-05-01",
+      "lastDayWeekTimestamp": 1494039600,
+      "lastDayWeek": "2017-05-06",
+      "week": "2017-05-06",
+      "tasks": 26
+    },
+    {
+      "firstDayWeekTimestamp": 1494212400,
+      "firstDayWeek": "2017-05-08",
+      "lastDayWeekTimestamp": 1494644400,
+      "lastDayWeek": "2017-05-13",
+      "week": "2017-05-13",
+      "tasks": 32
+    },
+    {
+      "firstDayWeekTimestamp": 1494817200,
+      "firstDayWeek": "2017-05-15",
+      "lastDayWeekTimestamp": 1495249200,
+      "lastDayWeek": "2017-05-20",
+      "week": "2017-05-20",
+      "tasks": 45
+    },
+    {
+      "firstDayWeekTimestamp": 1495422000,
+      "firstDayWeek": "2017-05-22",
+      "lastDayWeekTimestamp": 1495854000,
+      "lastDayWeek": "2017-05-27",
+      "week": "2017-05-27",
+      "tasks": 57
+    },
+    {
+      "firstDayWeekTimestamp": 1496026800,
+      "firstDayWeek": "2017-05-29",
+      "lastDayWeekTimestamp": 1496458800,
+      "lastDayWeek": "2017-06-03",
+      "week": "2017-06-03",
+      "tasks": 47
+    },
+    {
+      "firstDayWeekTimestamp": 1496631600,
+      "firstDayWeek": "2017-06-05",
+      "lastDayWeekTimestamp": 1497063600,
+      "lastDayWeek": "2017-06-10",
+      "week": "2017-06-10",
+      "tasks": 27
+    },
+    {
+      "firstDayWeekTimestamp": 1497236400,
+      "firstDayWeek": "2017-06-12",
+      "lastDayWeekTimestamp": 1497668400,
+      "lastDayWeek": "2017-06-17",
+      "week": "2017-06-17",
+      "tasks": 27
+    },
+    {
+      "firstDayWeekTimestamp": 1497841200,
+      "firstDayWeek": "2017-06-19",
+      "lastDayWeekTimestamp": 1498273200,
+      "lastDayWeek": "2017-06-24",
+      "week": "2017-06-24",
+      "tasks": 52
+    },
+    {
+      "firstDayWeekTimestamp": 1498446000,
+      "firstDayWeek": "2017-06-26",
+      "lastDayWeekTimestamp": 1498878000,
+      "lastDayWeek": "2017-07-01",
+      "week": "2017-07-01",
+      "tasks": 29
+    },
+    {
+      "firstDayWeekTimestamp": 1499050800,
+      "firstDayWeek": "2017-07-03",
+      "lastDayWeekTimestamp": 1499482800,
+      "lastDayWeek": "2017-07-08",
+      "week": "2017-07-08",
+      "tasks": 55
+    },
+    {
+      "firstDayWeekTimestamp": 1499655600,
+      "firstDayWeek": "2017-07-10",
+      "lastDayWeekTimestamp": 1500087600,
+      "lastDayWeek": "2017-07-15",
+      "week": "2017-07-15",
+      "tasks": 74
+    },
+    {
+      "firstDayWeekTimestamp": 1500260400,
+      "firstDayWeek": "2017-07-17",
+      "lastDayWeekTimestamp": 1500692400,
+      "lastDayWeek": "2017-07-22",
+      "week": "2017-07-22",
+      "tasks": 43
+    }
+  ]
+}
